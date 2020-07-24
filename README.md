@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Mark Mead Github Stats](https://github-readme-stats.vercel.app/api?username=markmead&show_icons=true&title_color=004680&icon_color=004680&text_color=004680&bg_color=fff)
+
 <!--
 **markmead/markmead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
