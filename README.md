@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Mark Mead Github Stats](https://github-readme-stats.vercel.app/api?username=markmead&show_icons=true&title_color=004680&icon_color=004680&text_color=004680&bg_color=fff)
+![Mark Mead Github Stats](https://github-readme-stats.vercel.app/api?username=markmead&show_icons=true)
 
 [![Mark Mead Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markmead)](https://github.com/anuraghazra/github-readme-stats)
 
