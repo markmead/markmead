@@ -4,4 +4,4 @@
 
 - 🗺 You can often find me on [CodePen](https://codepen.io/markmead) and [Twitter](https://twitter.com/itsmarkmead)
 
-[![Mark Mead Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markmead&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Mark Mead Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markmead&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
