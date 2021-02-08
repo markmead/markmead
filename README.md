@@ -1,6 +1,6 @@
 ### Hi 👋
 
-- 👨‍💻 I'm Mark, the Lead Developer at [Digital Reflow](https://www.digitalreflow.co.uk/)
+- 👨‍💻 I'm Mark, the Senior Developer at [Digital Reflow](https://www.digitalreflow.co.uk/)
 
 - 🗺 You can often find me on [CodePen](https://codepen.io/markmead) and [Twitter](https://twitter.com/itsmarkmead)
 
