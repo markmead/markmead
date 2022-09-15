@@ -1,20 +1,38 @@
-# Hey, I'm Mark 👋
+# Hey 👋
 
-I'm a Web Developer working at [Neon](https://www.neondigital.co.uk) and [Lunar](https://www.lunarphp.io) using the TALL stack.
+I'm a web developer working at [Neon](https://www.neondigital.co.uk) and
+[Lunar](https://www.lunarphp.io) using the TALL stack to build ecommerce
+websites and products.
 
-[Twitter](https://twitter.com/itsmarkmead) [GitHub](https://github.com/markmead) [CodePen](https://codepen.io/markmead/)
+- [Twitter](https://twitter.com/itsmarkmead)
+- [GitHub](https://github.com/markmead)
+- [CodePen](https://codepen.io/markmead/)
 
-## Open Source Projects
+---
 
-### 🧱 HyperUI - Tailwind CSS Components
+### HyperUI
 
-[Website](https://www.hyperui.dev/) [GitHub](https://github.com/markmead/hyperui)
+HyperUI is one of the most popular Tailwind CSS components libraries on GitHub
+with around 2.8k stars as of writing this. It's free, is open-source and
+features over 250 components across marketing, eCommerce and application UI.
 
-### 🎨 Hypercolor - Tailwind CSS Gradients
+- [Website](https://www.hyperui.dev/)
+- [GitHub](https://github.com/markmead/hyperui)
 
-[Website](https://www.hypercolor.dev/) [GitHub](https://github.com/jordihales/hypercolor)
+### HyperJS
 
+HyperJS is an open-source collection of Alpine JS components. I built this
+project based on the annoyance of having to write duplicate Alpine JS logic for
+different projects.
 
-### 👾 HyperJS - Alpine JS Components
+- [Website](https://www.hyperjs.dev/)
+- [GitHub](https://github.com/markmead/hyperjs)
 
-[Website](https://www.hyperjs.dev/) [GitHub](https://github.com/markmead/hyperjs)
+### Hypercolor
+
+Hypercolor is a collection of pre-made gradients created with Tailwind CSS. It
+has been extended to provide radial and conic gradients through changes to the
+Tailwind CSS config.
+
+- [Website](https://www.hypercolor.dev/)
+- [GitHub](https://github.com/jordihales/hypercolor)
