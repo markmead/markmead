@@ -13,8 +13,8 @@ websites and products.
 ### HyperUI
 
 HyperUI is one of the most popular Tailwind CSS components libraries on GitHub
-with around 2.8k stars as of writing this. It's free, is open-source and
-features over 250 components across marketing, eCommerce and application UI.
+with around 3.4k stars as of writing this. It's free, is open-source and
+features over 300 components across marketing, eCommerce and application UI.
 
 - [Website](https://www.hyperui.dev/)
 - [GitHub](https://github.com/markmead/hyperui)
