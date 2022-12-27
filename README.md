@@ -1,9 +1,5 @@
 # Hey 👋
 
-I'm a web developer working at [Neon](https://www.neondigital.co.uk) and
-[Lunar](https://www.lunarphp.io) using the TALL stack to build ecommerce
-websites and products.
-
 - [Twitter](https://twitter.com/itsmarkmead)
 - [GitHub](https://github.com/markmead)
 - [CodePen](https://codepen.io/markmead/)
