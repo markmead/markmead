@@ -1,6 +1,5 @@
 # Hey 👋
 
-- [Twitter](https://twitter.com/itsmarkmead)
 - [GitHub](https://github.com/markmead)
 - [CodePen](https://codepen.io/markmead/)
 
