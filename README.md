@@ -1,1 +1,1 @@
-[🐳 HyperUI](https://www.hyperui.dev/) / [🛵 HyperJS](https://www.hyperjs.dev/) / [🎨 Hypercolor](https://www.hypercolor.dev/)
+[🐳 HyperUI](https://www.hyperui.dev/) / [🛵 HyperJS](https://js.hyperui.dev/) / [🎨 Hypercolor](https://www.hypercolor.dev/)
