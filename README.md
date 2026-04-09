@@ -7,6 +7,7 @@ Welcome to my GitHub profile!
 Here are some of my notable projects:
 
 - [🐳 **HyperUI**](https://www.hyperui.dev/)
+- [📦 **HyperUX**](https://js.hyperui.dev/) ⭐️ New ⭐️
 - [🌲 **Alpine JS Component**](https://github.com/markmead/alpinejs-component)
 - [🧩 **Alpine JS Tash**](https://github.com/markmead/alpinejs-tash)
 - [🔍 **Alpine JS Head**](https://github.com/markmead/alpinejs-head)
